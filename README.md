@@ -1,4 +1,4 @@
-<h1 align="center" >Fala pessoal!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Me chamo Saullo, legal te ver por aqui.😄 </h1>
+<h1 align="center" >Fala pessoal! Me chamo Saullo, legal te ver por aqui.😄 </h1>
 
 
 ## 💡 Sobre mim :
